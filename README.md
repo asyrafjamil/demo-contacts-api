@@ -19,15 +19,15 @@ Using NodeJS and ExpressJS for API.
 Use <a href="https://www.getpostman.com" target="_blank">Postman</a> to test.<br/>
 Postman Environment is provided at the repository. 
 
-**Register** <br/>
+## Register <br/>
 Create a POST request to /people <br/>
 ![Register](https://github.com/asyrafjamil/demo-contacts-api/blob/main/Screenshot%20(68).png "Register")
 
-**Add a Contact To Particular User** <br/>
+## Add a Contact To Particular User <br/>
 Create a POST request to /people/:id/contacts to add a contact to particular user.
 ![Contact](https://github.com/asyrafjamil/demo-contacts-api/blob/main/Screenshot%20(69).png "Contact")
 
-**Searching User Using Free Text Search** <br/>
+## Searching User Using Free Text Search <br/>
 Create a GET request to /contacts?q=:query to search user.
 
 ***Search Using Name***

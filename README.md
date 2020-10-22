@@ -21,14 +21,25 @@ Postman Environment is provided at the repository.
 
 **Register** <br/>
 Create a POST request to /people <br/>
-![Register](https://github.com/asyrafjamil/NodeJS-Authentication-App-JWT/blob/master/Register%20User.png "Register")
+![Register](https://github.com/asyrafjamil/demo-contacts-api/blob/main/Screenshot%20(68).png "Register")
 
 **Add a Contact To Particular User** <br/>
 Create a POST request to /people/:id/contacts to add a contact to particular user.
-![Recover](https://github.com/asyrafjamil/NodeJS-Authentication-App-JWT/blob/master/Reset%20Password.png "Reset")
+![Contact](https://github.com/asyrafjamil/demo-contacts-api/blob/main/Screenshot%20(69).png "Contact")
 
 **Searching User Using Free Text Search** <br/>
 Create a GET request to /contacts?q=:query to search user.
-![Recover](https://github.com/asyrafjamil/NodeJS-Authentication-App-JWT/blob/master/Reset%20Password.png "Reset")
+
+***Search Using Name***
+![Name](https://github.com/asyrafjamil/demo-contacts-api/blob/main/Screenshot%20(73).png "Name")
+
+***Search Using Email***
+![Email](https://github.com/asyrafjamil/demo-contacts-api/blob/main/Screenshot%20(74).png "Email")
+
+***Search Using Number***
+![Number](https://github.com/asyrafjamil/demo-contacts-api/blob/main/Screenshot%20(75).png "Number")
+
+
+
 
 
